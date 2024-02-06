@@ -1,11 +1,11 @@
-# :repeat: :car: :chart_with_upwards_trend: :chart_with_downwards_trend: Test-time Feedback Loops Drive In-Context Reward Hacking in LLMs
+# Test-time Feedback Loops Drive In-Context Reward Hacking in LLMs
 This repository contains code for the paper [Test-time Feedback Loops Drive
 In-context Reward Hacking in LLMs](drive.google.com). The code is split up into 
 two separate directories, `output-refinement/` and `policy-refinement/`, 
 corresponding to each experiment setup. All experiments are run by first
 `cd`-ing into the relevant directory.
 
-![An example feedback loop](splash.pdf)
+![An example feedback loop](splash.png)
 
 ## Output-refinement
 
