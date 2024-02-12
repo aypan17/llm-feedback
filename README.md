@@ -1,6 +1,6 @@
-# Test-time Feedback Loops Drive In-Context Reward Hacking in LLMs
-This repository contains code for the paper [Test-time Feedback Loops Drive
-In-context Reward Hacking in LLMs](drive.google.com). The code is split up into 
+# Feedback Loops Drive In-Context Reward Hacking in LLMs
+This repository contains code for the paper [Feedback Loops Drive
+In-context Reward Hacking in LLMs](https://arxiv.org/abs/2402.06627). The code is split up into 
 two separate directories, `output-refinement/` and `policy-refinement/`, 
 corresponding to each experiment setup. All experiments are run by first
 `cd`-ing into the relevant directory.
@@ -70,7 +70,7 @@ Feel free to cite our paper:
 ```
 @article{pan2024llmfeedback
     author = {Pan, Alexander and Jones, Erik and Jagadeesan, Meena and Steinhardt, Jacob},
-    title = {Test-time Feedback Loops Drive In-Context Reward Hacking in LLMs},
+    title = {Feedback Loops Drive In-Context Reward Hacking in LLMs},
     journal= {arXiv},
     year = {2024}
 }
