@@ -68,7 +68,7 @@ Follow the [ToolEmu](https://github.com/ryoungj/ToolEmu) evaluation code in `pol
 ## Citation
 Feel free to cite our paper:
 ```
-@article{pan2024llmfeedback
+@article{pan2024llmfeedback,
     author = {Pan, Alexander and Jones, Erik and Jagadeesan, Meena and Steinhardt, Jacob},
     title = {Feedback Loops Drive In-Context Reward Hacking in LLMs},
     journal= {arXiv},
