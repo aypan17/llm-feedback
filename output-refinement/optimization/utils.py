@@ -55,7 +55,7 @@ def process_response(response):
 
 
 def init_experiment(args):
-    with open("opt/experiment_data.json", "r") as f:
+    with open("optimization/experiment_data.json", "r") as f:
         data = json.load(f)[args.seed]
     agents = {data["agent_name"]: data["agent_desc"]}
     if args.ab_test:
